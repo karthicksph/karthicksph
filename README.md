@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @karthick_
+Hi, I’m @karthick_
 
 <!---
 karthicksph/karthicksph is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
